@@ -232,16 +232,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740125165/ei/j
 #EXTINF:-1 group-title="Indonesia Channels"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_big.png",TAWAF TV
 https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
 
-==============================CCTV KEBUMEN===========================================
-
-#EXTINF:-1 tvg-logo="https://cctv.kebumenkab.go.id/assets/logo/kbm_new.png" group-title="CCTV KEBUMEN",CCTV Pasar Tumenggungan Timur
-https://cctv.kebumenkab.go.id//assets/video/pasar_timur/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://cctv.kebumenkab.go.id/assets/logo/kbm_new.png" group-title="CCTV KEBUMEN",CCTV SMPN 5
-https://cctv.kebumenkab.go.id//assets/video/smp5/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://cctv.kebumenkab.go.id/assets/logo/kbm_new.png" group-title="CCTV KEBUMEN",CCTV Alun Alun Utara
-https://cctv.kebumenkab.go.id//assets/video/alun_alun_utara/stream.m3u8</p>
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEoMTCjeR-gdWxPmI6dtPMeh8WsV85ZplhA&s",Hanacaraka TV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -5614,4 +5604,15 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #EXTINF:-1 tvg-id="MNCSports4.id"  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | AFC U17",Sportstars 4 (AG)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 ---------NEW 3/6/2025
+
+==============================CCTV KEBUMEN===========================================
+
+#EXTINF:-1 tvg-logo="https://cctv.kebumenkab.go.id/assets/logo/kbm_new.png" group-title="CCTV KEBUMEN",CCTV Pasar Tumenggungan Timur
+https://cctv.kebumenkab.go.id//assets/video/pasar_timur/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.kebumenkab.go.id/assets/logo/kbm_new.png" group-title="CCTV KEBUMEN",CCTV SMPN 5
+https://cctv.kebumenkab.go.id//assets/video/smp5/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://cctv.kebumenkab.go.id/assets/logo/kbm_new.png" group-title="CCTV KEBUMEN",CCTV Alun Alun Utara
+https://cctv.kebumenkab.go.id//assets/video/alun_alun_utara/stream.m3u8</p>
 
