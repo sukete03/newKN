@@ -3,19 +3,19 @@
 ============================================ CHANNEL INDONESIA ==========================================================
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s.hdnux.com/photos/01/63/14/41/30197851/3/rawImage.jpg" group-title="LANGSUNG", D SPORTS
+#EXTINF:-1 tvg-logo="https://s.hdnux.com/photos/01/63/14/41/30197851/3/rawImage.jpg" group-title="LANGSUNG", PIALA DUNIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://s.hdnux.com/photos/01/63/14/41/30197851/3/rawImage.jpg" group-title="LANGSUNG", D SPORTS 2
+#EXTINF:-1 tvg-logo="https://s.hdnux.com/photos/01/63/14/41/30197851/3/rawImage.jpg" group-title="LANGSUNG", PIALA DUNIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
 
-#EXTINF:-1 tvg-logo="https://s.hdnux.com/photos/01/63/14/41/30197851/3/rawImage.jpg" group-title="LANGSUNG", D SPORTS+
+#EXTINF:-1 tvg-logo="https://s.hdnux.com/photos/01/63/14/41/30197851/3/rawImage.jpg" group-title="LANGSUNG", PIALA DUNIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
@@ -23,12 +23,12 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2t
 
 #EXTINF:-1 tvg-logo="https://s.hdnux.com/photos/01/63/14/41/30197851/3/rawImage.jpg" group-title="LANGSUNG", LIVE (COBA WORLD CUP)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://andro.evrenesoglu57.click/checklist/androstreamliveexn1.m3u8
-https://andro.evrenesoglu57.click/checklist/androstreamliveexn2.m3u8
-https://andro.evrenesoglu57.click/checklist/androstreamliveexn3.m3u8
-https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8
-https://andro.evrenesoglu57.click/checklist/androstreamliveexn5.m3u8
-https://andro.evrenesoglu57.click/checklist/androstreamliveexn6.m3u8
+#https://andro.evrenesoglu57.click/checklist/androstreamliveexn1.m3u8
+#https://andro.evrenesoglu57.click/checklist/androstreamliveexn2.m3u8
+#https://andro.evrenesoglu57.click/checklist/androstreamliveexn3.m3u8
+#https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8
+#https://andro.evrenesoglu57.click/checklist/androstreamliveexn5.m3u8
+#https://andro.evrenesoglu57.click/checklist/androstreamliveexn6.m3u8
    
   
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://www.visionplus.id/images/repository/966/49966-SNAPSHOT-l.png",TV ONE
