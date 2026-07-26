@@ -43,7 +43,10 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
  
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" tvg-id="", ANTV 
-https://cdn.jsdelivr.net/gh/sukete03/video/INTERNET-V2.mp4 
+https://cdn.jsdelivr.net/gh/sukete03/video/INTERNET-V2.mp4
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/cropped-logo-RodjaTV-101x29.png" tvg-id="", RODJA TV 
+https://rodjatv.com/rodjatv/live.m3u8
  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -118,9 +121,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 #EXTINF:-1 tvg-id="NET.id" tvg-name="NET." tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1740682833_tvchannels_v1.jpg" group-title="Indonesia Channels", MDTV ⚪
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV
 
-
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/cropped-logo-RodjaTV-101x29.png" tvg-id="", FATWA TV
-https://rodjatv.com/rodjatv/live.m3u8
  
 #EXTINF:-1 group-title=“Indonesia Channels" tvg-id="SURAU TV" tvg-logo="https://www.surau.tv/images/logosurautvvalid.png",SURAU TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
