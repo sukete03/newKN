@@ -2,6 +2,266 @@
 ============================================ CHANNEL INDONESIA ==========================================================
 
 #EXTM3U
+#EXTINF:-1 tvg-id="TVRI.id" group-title="🇮🇩 Indonesia | Nasional",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/TVRINasional/hls/TVRINasional.m3u8
+#EXTINF:-1 tvg-id="SCTV.id" group-title="🇮🇩 Indonesia | Nasional",SCTV HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h217/01.m3u8
+#EXTINF:-1 tvg-id="ANTV.id" group-title="🇮🇩 Indonesia | Nasional",ANTV HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h235/01.m3u8
+#EXTINF:-1 tvg-id="RCTI.id" group-title="🇮🇩 Indonesia | Nasional",RCTI HD
+https://mncmedia.malingtv.workers.dev/rcti.m3u8
+#EXTINF:-1 tvg-id="MNCTV.id" group-title="🇮🇩 Indonesia | Nasional",MNC TV HD
+https://mncmedia.malingtv.workers.dev/mnctv.m3u8
+#EXTINF:-1 tvg-id="GTV.id" group-title="🇮🇩 Indonesia | Nasional",GTV HD
+https://mncmedia.malingtv.workers.dev/gtv.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id" group-title="🇮🇩 Indonesia | Nasional",Indosiar HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/01.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" group-title="🇮🇩 Indonesia | Nasional",Trans TV HD
+https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" group-title="🇮🇩 Indonesia | Nasional",Trans7 HD
+https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+# ===== 📰 INDONESIA — BERITA =====
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="🇮🇩 Indonesia | Berita",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KompasTV.id" group-title="🇮🇩 Indonesia | Berita",Kompas TV
+https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/10.m3u8
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" group-title="🇮🇩 Indonesia | Berita",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNIndonesia.id" group-title="🇮🇩 Indonesia | Berita",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="TVRINews.id" group-title="🇮🇩 Indonesia | Berita",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+# ===== ⚽ INDONESIA — OLAHRAGA =====
+#EXTINF:-1 tvg-id="Moji.id" group-title="🇮🇩 Indonesia | Olahraga",MOJI
+https://op-flashcon-digdayahd-1.dens.tv/h/h210/01.m3u8
+#EXTINF:-1 tvg-id="TVRI.id" group-title="🇮🇩 Indonesia | Olahraga",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/TVRINasional/hls/TVRINasional.m3u8
+# ===== 🎭 INDONESIA — HIBURAN =====
+#EXTINF:-1 tvg-id="RTV.id" group-title="🇮🇩 Indonesia | Hiburan",RTV
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+#EXTINF:-1 tvg-id="DAAITV.id" group-title="🇮🇩 Indonesia | Hiburan",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1 tvg-id="UChannel.id" group-title="🇮🇩 Indonesia | Hiburan",U Channel
+https://srs.u-channel.tv/live/uchannel-tv.m3u8
+#EXTINF:-1 tvg-id="TheIndonesiaChannel.id" group-title="🇮🇩 Indonesia | Hiburan",The Indonesia Channel
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+# ===== 🇰🇷 KOREA — ENTERTAINMENT / VARIETY / DRAMA / MUSIC =====
+#EXTINF:-1 tvg-id="ArirangTV.kr" group-title="🇰🇷 Korea | Entertainment",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KDrama.kr" group-title="🇰🇷 Korea | Drama",K-DRAMA+
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=425
+#EXTINF:-1 tvg-id="KMovies.kr" group-title="🇰🇷 Korea | Movies",NEW KMOVIES
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=7737
+#EXTINF:-1 tvg-id="EBSPlus1.kr" group-title="🇰🇷 Korea | Entertainment",EBS+ 1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus2.kr" group-title="🇰🇷 Korea | Entertainment",EBS+ 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="GugakTV.kr" group-title="🇰🇷 Korea | Music",GugakTV
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GCN.kr" group-title="🇰🇷 Korea | Entertainment",GCN24 Korean
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GoodTV.kr" group-title="🇰🇷 Korea | Entertainment",GoodTV
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CJOnStyle.kr" group-title="🇰🇷 Korea | Variety",CJ OnStyle
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+# ===== 🇨🇳 CHINA — NEWS / ENTERTAINMENT / DOCUMENTARY =====
+#EXTINF:-1 tvg-id="CGTN.cn" group-title="🇨🇳 China | News",CGTN
+https://english.cctv.com/live/cctv_English/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn" group-title="🇨🇳 China | Documentary",CCTV-9
+https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🇨🇳 China | Documentary",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="ChinaTravel.cn" group-title="🇨🇳 China | Entertainment",China Travel
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 tvg-id="ChinaTravel2.cn" group-title="🇨🇳 China | Entertainment",CHINA TRAVEL
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="ABNChina.cn" group-title="🇨🇳 China | Entertainment",ABN China
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+# ===== 🎬 MOVIES — PUBLIC / FREE CHANNELS =====
+#EXTINF:-1 tvg-id="ABNBibleMovies" group-title="🎬 Movies | Free",ABN Bible Movies
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:-1 tvg-id="AlienNationDUST" group-title="🎬 Movies | Free",Alien Nation by DUST
+https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="CGEntertainment" group-title="🎬 Movies | Free",CG Entertainment
+https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DoveChannel" group-title="🎬 Movies | Free",Dove Channel
+https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="BritBoxMysteries" group-title="🎬 Movies | Free",BritBox Mysteries
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+# ===== 📺 ENTERTAINMENT INTERNATIONAL =====
+#EXTINF:-1 tvg-id="DWEnglish" group-title="📺 Entertainment International",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals" group-title="📺 Entertainment International",Bloomberg Originals
+https://bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1 tvg-id="AntiquesRoadshowPBS" group-title="📺 Entertainment International",Antiques Roadshow PBS
+https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK" group-title="📺 Entertainment International",Antiques Roadshow UK
+https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AFV" group-title="📺 Entertainment International",AFV
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCAbsoluteReality" group-title="📺 Entertainment International",AMC Absolute Reality
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ALLBLKGems" group-title="📺 Entertainment International",ALLBLK Gems
+https://df1zke3zj042m.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="CourtTV" group-title="📺 Entertainment International",Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+# ===== 🇮🇩 INDONESIA — TVRI DAERAH =====
+#EXTINF:-1 tvg-id="TVRI.id@NTB" group-title="🇮🇩 Indonesia | TVRI Daerah",TVRI NTB
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@NTT" group-title="🇮🇩 Indonesia | TVRI Daerah",TVRI NTT
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Aceh" group-title="🇮🇩 Indonesia | TVRI Daerah",TVRI Aceh
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Sumut" group-title="🇮🇩 Indonesia | TVRI Daerah",TVRI Sumatera Utara
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Sumbar" group-title="🇮🇩 Indonesia | TVRI Daerah",TVRI Sumatera Barat
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Riau" group-title="🇮🇩 Indonesia | TVRI Daerah",TVRI Riau
+https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Jambi" group-title="🇮🇩 Indonesia | TVRI Daerah",TVRI Jambi
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Sumsel" group-title="🇮🇩 Indonesia | TVRI Daerah",TVRI Sumatera Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Babel" group-title="🇮🇩 Indonesia | TVRI Daerah",TVRI Bangka Belitung
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Bengkulu" group-title="🇮🇩 Indonesia | TVRI Daerah",TVRI Bengkulu
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Lampung" group-title="🇮🇩 Indonesia | TVRI Daerah",TVRI Lampung
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@DKI" group-title="🇮🇩 Indonesia | TVRI Daerah",TVRI Jakarta
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Jabar" group-title="🇮🇩 Indonesia | TVRI Daerah",TVRI Jawa Barat
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+# ===== 🇮🇩 INDONESIA — LOCAL / REGIONAL =====
+#EXTINF:-1 tvg-id="BalikpapanTV.id" group-title="🇮🇩 Indonesia | Lokal",Balikpapan TV
+http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="BandungTV.id" group-title="🇮🇩 Indonesia | Lokal",Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 tvg-id="JTV.id@Madiun" group-title="🇮🇩 Indonesia | Lokal",JTV Madiun
+http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV.id@Malang" group-title="🇮🇩 Indonesia | Lokal",JTV Malang
+http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="MatrixTVYogyakarta.id" group-title="🇮🇩 Indonesia | Lokal",Matrix TV Yogyakarta
+https://stream.matrixtv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="PKTV.id" group-title="🇮🇩 Indonesia | Lokal",PKTV
+https://streaming.id18.tunnel.my.id/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RRI-Net.id" group-title="🇮🇩 Indonesia | Knowledge",RRI Net
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
+#EXTINF:-1 tvg-id="TVKU.id" group-title="🇮🇩 Indonesia | Education",TVKU
+https://tvku.tv/hlsstream/hls/live.m3u8
+#EXTINF:-1 tvg-id="UGTV.id" group-title="🇮🇩 Indonesia | Education",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 tvg-id="VTV.id" group-title="🇮🇩 Indonesia | Nasional",VTV HD
+http://ikitv.sqn.at:8000/play/a023/index.m3u8
+# ===== 🇰🇷 KOREA — ENTERTAINMENT / KNOWLEDGE =====
+#EXTINF:-1 tvg-id="ABN.kr" group-title="🇰🇷 Korea | Entertainment",ABN TV
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-id="BBS.kr" group-title="🇰🇷 Korea | Knowledge",BBS Buddhist Broadcasting
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="BTN.kr" group-title="🇰🇷 Korea | Knowledge",BTN TV
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus1.kr" group-title="🇰🇷 Korea | Education",EBS+ 1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus2.kr" group-title="🇰🇷 Korea | Education",EBS+ 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="FGTV.kr" group-title="🇰🇷 Korea | Entertainment",FGTV
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CJOnStylePlus.kr" group-title="🇰🇷 Korea | Variety",CJ OnStyle Plus
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 tvg-id="GSMyShop.kr" group-title="🇰🇷 Korea | Variety",GS My Shop
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GSShop.kr" group-title="🇰🇷 Korea | Variety",GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+# ===== 🇨🇳 CHINA — KNOWLEDGE / ENTERTAINMENT =====
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🇨🇳 China | Knowledge",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+# ===== 🎬 MOVIES — FREE/PUBLIC =====
+#EXTINF:-1 tvg-id="AFV" group-title="🎬 Movies | Free",AFV
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AntiquesRoadshowPBS" group-title="🎬 Movies | Free",Antiques Roadshow PBS
+https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK" group-title="🎬 Movies | Free",Antiques Roadshow UK
+https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="312Kino" group-title="🎬 Movies | Free",312 Kino
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+# ===== 📚 KNOWLEDGE & DOCUMENTARY =====
+#EXTINF:-1 tvg-id="TV5MondeStyle" group-title="📚 Knowledge | Documentary",TV5MONDE Style
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
+#EXTINF:-1 tvg-id="DensLearningKnowledge" group-title="📚 Knowledge | Education",Dens Learning & Knowledge
+https://op-flashcon-digdayahd-1.dens.tv/h/h236/02.m3u8
+#EXTINF:-1 tvg-id="ChinaTravelKnowledge" group-title="📚 Knowledge | Travel",China Travel
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 tvg-id="DWEnglish" group-title="📚 Knowledge | International",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="AsharqDiscovery" group-title="📚 Knowledge | Documentary",Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AsharqDocumentary" group-title="📚 Knowledge | Documentary",Asharq Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+# ===== 📺 ENTERTAINMENT INTERNATIONAL =====
+#EXTINF:-1 tvg-id="DensFood" group-title="📺 Entertainment International",Dens Food Channel
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
+#EXTINF:-1 tvg-id="DensShowBiz" group-title="📺 Entertainment International",Dens ShowBiz
+https://op-flashcon-digdayahd-1.dens.tv/h/h244/02.m3u8
+#EXTINF:-1 tvg-id="DensLifeStyle" group-title="📺 Entertainment International",Dens Life & Style
+https://op-flashcon-digdayahd-1.dens.tv/h/h222/02.m3u8
+#EXTINF:-1 tvg-id="AreWeThereYet" group-title="📺 Entertainment International",Are We There Yet?
+https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="AlwaysFunnyVideos" group-title="📺 Entertainment International",Always Funny Videos
+https://d24l3uppudokci.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="AMGTV" group-title="📺 Entertainment International",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 tvg-id="AVAFamily" group-title="📺 Entertainment International",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BabySharkTV" group-title="📺 Entertainment International",Baby Shark TV
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+# ===== 📚 KNOWLEDGE | OFFICIAL FREE CONTENT (NOT LIVE M3U) =====
+# National Geographic official unlocked collection (not a public M3U live feed):
+# https://www.nationalgeographic.com/tv/collection/41f7e420-fb4d-4b41-ac42-299ae50f4413
+# Discovery official Unlocked Shows (not a public M3U live feed):
+# https://www.discovery.com/shows/unlocked-shows
+
+
+# ===== 📚 KNOWLEDGE | BBC EARTH / HISTORY / ANIMAL PLANET / SMITHSONIAN =====
+# These are public/free or FAST/HLS sources found in current public playlists.
+# Premium cable feeds are only included where a public HLS source is available.
+#EXTINF:-1 tvg-id="BBCEarth" group-title="📚 Knowledge | Documentary",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary" group-title="📚 Knowledge | Documentary",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="DocumentaryPlus" group-title="📚 Knowledge | Documentary",Documentary+
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="DocumentaryInternational" group-title="📚 Knowledge | Documentary",Documentary International
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveringChina" group-title="📚 Knowledge | Travel",Discovering China
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="AsharqDiscovery" group-title="📚 Knowledge | Documentary",Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AsharqDocumentary" group-title="📚 Knowledge | Documentary",Asharq Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="DWEnglish" group-title="📚 Knowledge | International",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="NASA" group-title="📚 Knowledge | Space & Science",NASA TV
+https://ntv1.akamaized.net/hls/live/253565/nasa1/master.m3u8
+#EXTINF:-1 tvg-id="NASA2" group-title="📚 Knowledge | Space & Science",NASA TV Public
+https://ntv2.akamaized.net/hls/live/253566/nasa2/master.m3u8
+#EXTINF:-1 tvg-id="EarthTouch" group-title="📚 Knowledge | Wildlife",Earth Touch
+https://amg01397-amg01397c1-plex-us-6609.playouts.now.amagi.tv/playlist/amg01397-earthtouch-earthtouch-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature" group-title="📚 Knowledge | Wildlife",Love Nature
+https://amg01723-amg01723c7-plex-us-5024.playouts.now.amagi.tv/playlist/amg01723-blueantmediagroup-lovenature-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth" group-title="📚 Knowledge | Wildlife",WildEarth
+https://wildearth-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelXP" group-title="📚 Knowledge | Travel",Travel XP
+https://travelxp-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Travelxp" group-title="📚 Knowledge | Travel",Travelxp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy" group-title="📚 Knowledge | Science & Weather",WeatherSpy
+https://weather.zapto.org:1935/weather/weather.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Science" group-title="📚 Knowledge | Science",Science Channel
+https://amg00034-discovery-science-plex-8h1d7.amagi.tv/playlist.m3u8
+
+#########№#########################
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7t2mbspy/TVONE.png" group-title="Indonesia Channels",TvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
