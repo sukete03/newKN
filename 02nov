@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 
-#EXTINF:-1 tvg-id="auto.rcti.sports" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/RCTI.png" group-title="Sports Indo",RCTI
+#EXTINF:-1 tvg-id="auto.rcti.sports" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/RCTI.png" group-title="Indonesia Channels,RCTI
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
