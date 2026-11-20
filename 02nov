@@ -17,13 +17,6 @@ https://iptv.lancartech.co.id:443/Guntur@823/12061313/9
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXwidwXi8K3rIvOAzFa6cRAwnjmuYcb09LNq-gJgsyEoibjlQyh_8CJ-o-nYWEVAxb8dd4DThEBGTEh1RBZmrfcxfBbjBSxcn2w63qrFXvPmF-UKBAiHxxrMlhAKMDqTgy-VhitYUfA7r-T7eD4ewnO7u0fEcF7kWtUiW5OD5BmfSQhpbI8fzyrEhBcJg/s700/Inews.png" group-title="Indonesia Channels",iNews
 https://iptv.lancartech.co.id:443/Guntur@823/12061313/12
 
-EXTINF:-1 tvg-id="Hanacaraka TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_90.png" group-title="INDONESIA 🇮🇩",Hanacaraka TV (Vision+)
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=89&type=drm&token=KITKATTV
-https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png",TransTV
 #EXTGRP:Indonesia Channels
@@ -71,6 +64,12 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5ZxnsrB6Bdo-dJPFQPt0JbVIaKuqsUQ64IPxgn2LbGS06VpZXdPiO8lzKSWutPXpCN6b77TL0Syhnvi74YUTmQU5tVUt4RFjsYGORHETAqtXMI3TFmBrYeHX6crmo4LN_SjNuso0Lr7rz6JXcBfdSwytD6bNrezPCQpehO3rcxHlDQIBC-WjqbnmG-XA/s700/SCTV.png" group-title="Indonesia Channels",SCTV
 https://iptv.lancartech.co.id:443/Guntur@823/12061313/30
+
+
+#EXTINF:-1 tvg-id="Hanacaraka TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_90.png" group-title="Indonesia Channels",Hanacaraka TV (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/hanacaraka/index.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.pinimg.com/736x/b2/42/12/b24212e296c77e78056a30a439e59b61.jpg",ANTV
 #EXTGRP:Indonesia Channels
@@ -1568,8 +1567,6 @@ http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="auto.hanacaraka.tv" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/hanacaraka.jpg?raw=true" group-title="Local Channels",HANACARAKA TV
-https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 # <============================================== Indonesia Channels (HLS multi-source) ===========================================================>
 
@@ -2767,9 +2764,6 @@ https://proxy-v.rctiplus.id/live/web/celebrities/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="HanacarakaTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_90.png" group-title="Indonesian Entertainment & Movies",Hanacaraka TV (Vision+)
-https://proxy-v.rctiplus.id/live/web/hanacaraka/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel Jowo" tvg-logo="https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png" group-title="Indonesian Entertainment & Movies",Channel Jowo (DensTV)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
