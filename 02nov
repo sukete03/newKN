@@ -3,25 +3,24 @@
 
 ******************************************RCTI*************************************************
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTruU4vKRZ0_Ac2LlhGqU9ho5x8BbHMpiLYrJk0oTY6xURJaiXb8D61gTY&s=10" tvg-chno="29" group-title="AFC CHAMPIONS LEAGUE ELITE",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-origin=https://www.rbtv77.com
+#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
+#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
+https://iptv.amritv.my.id/script/rbtv/live/2276547.m3u8?sport=2&direct=1
+#EXTINF:-1 tvg-logo="https://media.tenor.com/WoQZgPVVZHQAAAAM/rcti-rcti29.gif" tvg-chno="27" group-title="Indonesia Channels" type="live" radio="false",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://allcutv.rctiplus.id/rcti2023.m3u8
-
-
-*****************************************MNC********************************************************
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTruU4vKRZ0_Ac2LlhGqU9ho5x8BbHMpiLYrJk0oTY6xURJaiXb8D61gTY&s=10" tvg-chno="34" group-title="AFC CHAMPIONS LEAGUE ELITE",MNCTV HD
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" tvg-chno="28" group-title="Indonesia Channels" type="live" radio="false",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://allcutv.rctiplus.id/mnctv2023.m3u8
-
-*****************************************GTV********************************************************
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTruU4vKRZ0_Ac2LlhGqU9ho5x8BbHMpiLYrJk0oTY6xURJaiXb8D61gTY&s=10" tvg-chno="37" group-title="AFC CHAMPIONS LEAGUE ELITE",GTV HD
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" tvg-chno="29" group-title="Indonesia Channels" type="live" radio="false",GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://allcutv.rctiplus.id/gtv2023.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
 
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXwidwXi8K3rIvOAzFa6cRAwnjmuYcb09LNq-gJgsyEoibjlQyh_8CJ-o-nYWEVAxb8dd4DThEBGTEh1RBZmrfcxfBbjBSxcn2w63qrFXvPmF-UKBAiHxxrMlhAKMDqTgy-VhitYUfA7r-T7eD4ewnO7u0fEcF7kWtUiW5OD5BmfSQhpbI8fzyrEhBcJg/s700/Inews.png" group-title="Indonesia Channels",iNews
