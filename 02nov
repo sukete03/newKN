@@ -7,7 +7,7 @@
 #EXTVLCOPT:http-origin=https://www.rbtv77.com
 #EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
 #EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/2276547.m3u8?sport=2&direct=1
+#https://iptv.amritv.my.id/script/rbtv/live/2276547.m3u8?sport=2&direct=1
 #EXTINF:-1 tvg-logo="https://media.tenor.com/WoQZgPVVZHQAAAAM/rcti-rcti29.gif" tvg-chno="27" group-title="Indonesia Channels" type="live" radio="false",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
